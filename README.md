@@ -3,10 +3,10 @@
 I'm a front-end developer in Mirum Agency Brazil (https://www.mirumagency.com/) and my stack contains:
 - CSS Frameworks like Bootstrap and Foundation
 - WordPress
-- Vtex
 - ReactJs (Redux, Saga)
 - NextJs (Learning)
 - Strapi (Learning)
+- Styled Components
 
 Thanks for read :grin:
 

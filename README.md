@@ -3,7 +3,7 @@
 I'm a front-end developer in Mirum Agency Brazil (https://www.mirumagency.com/) and my stack contains:
 - CSS Frameworks like Bootstrap and Foundation
 - WordPress
-- ReactJs (Redux, Saga)
+- ReactJs (Redux)
 - NextJs (Learning)
 - Strapi (Learning)
 - Styled Components

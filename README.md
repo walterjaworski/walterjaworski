@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a front-end developer in Mirum Agency Brazil (https://www.mirumagency.com/) and my stack contains:
+I'm a front-end developer in Alto Giro (https://www.altogiro.net/) and my stack contains:
 - CSS Frameworks like Bootstrap and Foundation
 - WordPress
 - ReactJs (Redux)

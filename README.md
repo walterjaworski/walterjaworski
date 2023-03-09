@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a front-end developer at Alto Giro (https://www.altogiro.net/) and my stack contains:
+I'm a front-end developer at #opentowork and my stack contains:
 - ReactJS
 - NextJS
 - Redux
@@ -8,5 +8,6 @@ I'm a front-end developer at Alto Giro (https://www.altogiro.net/) and my stack 
 - MUI
 - Learning NodeJS
 - Learning MongoDB
+- Learning TypeScript
 
 Thanks for read :grin:

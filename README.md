@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a front-end developer at #opentowork and my stack contains:
+I'm a front-end developer at Meta (https://meta.com.br/) and my stack contains:
 - ReactJS
 - NextJS
 - Redux
